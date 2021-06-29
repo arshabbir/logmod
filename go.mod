@@ -1,3 +1,3 @@
-module github.com/arshabbir/logmodule
+module github.com/arshabbir/logmod
 
 go 1.16
